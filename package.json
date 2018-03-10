@@ -1,0 +1,12 @@
+{
+  "name": "event-community-telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:NotNeededProjects/event-community-telegram-bot.git",
+  "author": "pleycpl <h4rvey@protonmail.com>",
+  "license": "GPL-3.0",
+  "private": null,
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
