@@ -5,3 +5,5 @@ Sonrasinda her akşam tarih sirasina göre etklinlik özeti mesaji aticak. Şuan
 
 # Katkida bulunmak
   Gelistirme Dokumanina [bakiniz](https://github.com/NotNeededProjects/event-community-telegram-bot/blob/master/DEVELOPMENT.md)
+
+  Yapilacak Listesine [bakiniz](https://github.com/NotNeededProjects/event-community-telegram-bot/blob/master/TODO.md)
