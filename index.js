@@ -20,8 +20,3 @@ bot.on('polling_error', (error) => {
 	console.log("Polling Error")
 	console.log(error)
 });
-
-bot.on('webhook_error', (error) => {
-	console.log("Webhook Error")
-	console.log(error)
-});
